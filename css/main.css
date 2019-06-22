@@ -6,3 +6,34 @@
   text-decoration: none;
   color: #00f;
 }
+.image-link {
+  text-decoration: none;
+}
+.header-text {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.center-image {
+  display: block;
+  margin: 0 auto;
+}
+.content-box {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.floating-image {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.blockquote-text {
+  font-style: italic;
+  font-size: 20px;
+}
+.loud-line {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #f00;
+}
